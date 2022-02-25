@@ -1,0 +1,40 @@
+.container {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.nav-link:hover{
+        border-bottom: 3px solid whitesmoke;
+        color: red;
+}
+
+hr,
+h2 {
+    margin-bottom: 2%;
+}
+
+.lastItems {
+    list-style: none;
+}
+
+footer {
+    background-color: #636966;
+    color: #F5F5F5;
+}
+
+.custom-file-label::after {
+    content: "Parcourir" !important;
+}
+
+.fakeLabel {
+    margin-bottom: 0.5rem;
+}
+.error {
+    background-size: cover;
+    background-image: url('../img/wallpapertip_shipwreck-wallpaper_373629.jpg');
+}
+
+.textError{
+    background-color: rgba(0,0,0,0.7);
+    margin-top: 18%;
+}
